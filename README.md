@@ -71,6 +71,6 @@ trends, and business performance.
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [G. Dogara](YOUR-LINKEDIN-URL)
-- **Email:** YOUR-EMAIL
+- **LinkedIn:** [G. Dogara](https://www.linkedin.com/in/gdogara/)
+- **Email:** dogaragbaja
 - **GitHub:** [gdogara-glitch](https://github.com/gdogara-glitch)
